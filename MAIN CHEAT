@@ -422,7 +422,7 @@ local tabNames = {
 	"FANTASMA", 
     "VERSION 6",
 	"LAST VERSION",
-	"FOR LOCCO",
+	"MONSY",
 	"RP TELEPORT" 
 }
 local tabPanels = {}
